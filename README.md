@@ -15,7 +15,7 @@ Fluent was used as the ANSYS tool for the CFD analysis. The Re = 1564574 was cal
 The Re based flow conditions and airfoil geometry were provided to the tool which extracted the required plots of Cl and Cd vs angle of attack. This tool was employed to get easily computable low fidelity results for comparison with the high fidelity ones to ensure general semblance of both. 
 
 # Results
-All the three airfoils generated increasing lift and drag with increasing angle of attack. Although the LNV109A airfoil generated the highest magnitude of lift, the drag magnitude was also high. The NACA 4412 airfoil gave the most optimal results with sufficiently high lift and minmal drag at the same time. This geometry can be used for the intended purpose. The lift-to-drag ratio plots revealed that aerodynamic performance initially increases for all three geometries up to around 8 degrees angle of attack, and decreases susequently. This might be attributed to stalling phenomenon. 
+All the three airfoils generated increasing lift and drag with increasing angle of attack. Although the LNV109A airfoil generated the highest magnitude of lift, the drag magnitude was also high. The NACA 4412 airfoil gave the most optimal results with sufficiently high lift and minmal drag at the same time. This geometry can be used for the intended purpose. The lift-to-drag ratio plots revealed that aerodynamic performance initially increases for all three geometries up to around 8 degrees angle of attack, and decreases susequently. This might be attributed to stalling phenomenon. The L/D plots for the NACA 4412, LNV109A and NACA 2412 airfoil are given below.
 
 ![L/D plot for NACA 4412](assets/images/nc44.png)
 
